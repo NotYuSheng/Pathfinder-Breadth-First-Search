@@ -13,4 +13,5 @@ White tile: Blank
 
 Click on white tiles and create to create maze for algorithm to solve  
 Click on existing tiles to remove tiles  
-**Hit "Enter" key to run algorithm**
+**Hit "Enter" key to run algorithm**  
+Solution printed on command prompt  
