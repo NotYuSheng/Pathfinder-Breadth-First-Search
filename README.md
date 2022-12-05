@@ -30,5 +30,5 @@ Red: Origin
 Green: Destination  
 Grey: Wall  
 White: Blank
-Yellow: Solution Path
-Blue: Searching
+Yellow: Solution Path  
+Blue: Search attempt
