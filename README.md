@@ -12,5 +12,5 @@ White tile: Blank
 2. Open command prompt in folder and run python main.py
 
 Click on white tiles and create to create maze for algorithm to solve  
-Click on existing tiles to remove tiles
-Hit "Enter" key to run algorithm
+Click on existing tiles to remove tiles  
+**Hit "Enter" key to run algorithm**
