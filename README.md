@@ -25,8 +25,10 @@ Click on existing tiles to remove tiles
 Hit "Enter" key to run algorithm  
 Solution printed on command prompt  
 
-## Legend
-Red tile: Origin  
-Green tile: Destination  
-Grey tile: Wall  
-White tile: Blank
+## Tile Legend
+Red: Origin  
+Green: Destination  
+Grey: Wall  
+White: Blank
+Yellow: Solution Path
+Blue: Searching
