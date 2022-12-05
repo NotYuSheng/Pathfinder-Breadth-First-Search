@@ -3,6 +3,7 @@ Outdated, new version available
 
 <p align="center">
   <img src="Pathfinder Sample Img.png"/>
+  <img src="CMD output Sample.png"/>
 </p>
 
 ## Setup
