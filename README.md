@@ -26,9 +26,9 @@ Hit "Enter" key to run algorithm
 Solution printed on command prompt  
 
 ## Tile Legend
+White: Blank  
 Red: Origin  
 Green: Destination  
 Grey: Wall  
-White: Blank
 Yellow: Solution Path  
 Blue: Search attempt
