@@ -1,5 +1,5 @@
 # Pathfinder-Breadth-First-Search (28/02/2021)
-Legacy GUI, improved in Pathfinder-AStar: https://github.com/NotYuSheng/Pathfinder-AStar
+Legacy GUI, improved in: https://github.com/NotYuSheng/Pathfinder-AStar
 
 <p align="center">
   <img src="Pathfinder Sample Img.png"/>
