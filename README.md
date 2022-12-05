@@ -8,7 +8,9 @@ Legacy GUI, improved in Pathfinder_AStar:
 
 ## Setup
 1. Download and store files into folder
-2. Open command prompt in folder and run python main.py
+2. Open command prompt in folder and run python main.py  
+
+Dimension of grid can be modified by changing "NUM_OF_GRID" constant in "constant.py"
 
 ## Usage
 Click on white tiles and create to create maze for algorithm to solve  
