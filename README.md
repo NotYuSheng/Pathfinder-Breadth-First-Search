@@ -1,5 +1,5 @@
 # Pathfinder-Breadth-First-Search (28/02/2021)
-Outdated, new version available
+Legacy GUI, improved in Pathfinder_AStar: 
 
 <p align="center">
   <img src="Pathfinder Sample Img.png"/>
