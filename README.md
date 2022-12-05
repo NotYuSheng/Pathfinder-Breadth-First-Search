@@ -13,7 +13,7 @@ Legacy GUI, improved in Pathfinder_AStar: https://github.com/NotYuSheng/Pathfind
 
 Dimension of grid can be modified by changing "NUM_OF_GRID" constant in "constant.py"
 
-### Mobile
+### Android Mobile
 1. Install "Pydroid 3 - IDE for Python 3"  
 2. Download and run "Pathfinder (Mobile ver).py"  
 
