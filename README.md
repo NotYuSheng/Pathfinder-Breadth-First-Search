@@ -1,5 +1,4 @@
 # Pathfinder-Breadth-First-Search (28/02/2021)
-Legacy GUI, improved in: https://github.com/NotYuSheng/Pathfinder-AStar
 
 <p align="center">
   <img src="Pathfinder Sample Img.png"/>
@@ -32,3 +31,6 @@ Green: Destination
 Grey: Wall  
 Yellow: Solution path  
 Blue: Search attempt
+
+## Release
+Legacy GUI, improved in: https://github.com/NotYuSheng/Pathfinder-AStar
